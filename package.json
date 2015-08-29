@@ -1,0 +1,16 @@
+{
+  "name": "0daydown_get_baidu_pan",
+  "version": "1.0.0",
+  "description": "get baidu pan link and password from feeds of www.0daydown.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "0daydown",
+    "download",
+    "baiduPan"
+  ],
+  "author": "timqian",
+  "license": "MIT"
+}
